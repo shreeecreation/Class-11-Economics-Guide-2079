@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79768266523",
+    "project_id": "class11eco-3a9d0",
+    "storage_bucket": "class11eco-3a9d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79768266523:android:4fdf44bf8184a9937315be",
+        "android_client_info": {
+          "package_name": "com.example.eco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79768266523-15eijgq9t4of5hfr3h90c4229pfrbnul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClZjabRbmLO6ju61VVjOsSnDJpcXnbvi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79768266523-15eijgq9t4of5hfr3h90c4229pfrbnul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

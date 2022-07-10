@@ -1,0 +1,29 @@
+[
+    {
+        "lesson" : 1,
+        "name":"Basic Concept of Economics",
+        "core" : []
+    },
+    {
+        "lesson" : 2,
+        "name":"MicroEconomics",
+        "core" : []
+        
+    },
+    {
+        "lesson" : 3,
+        "name":"MacroEconomics",
+        "core" : []
+    },
+    {
+        "lesson" : 14,
+        "name":"Development Economics",
+        "core" : []
+    },
+    {
+        "lesson" : 5,
+        "name":"Neplease Economy",
+        "core" : []
+    }
+    
+]
